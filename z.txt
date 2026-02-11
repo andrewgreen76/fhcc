@@ -6,6 +6,11 @@ Rename "What are you working on? What have you done? Share your projects. Finish
 
 ___________________________________________________________________________________
 
+I used "git push -u origin HEAD". I got "branch 'main' set up to track 'origin/main'.
+Everything up-to-date
+". What is my one next step?
+___________________________________________________________________________________
+
 "Any personal convictions getting in the way of you starting, progressing, or finishing? Let's hear it. Do the work. Finish your work."
 
 Remove the addiction subjects you know nothing about and have no experience in.
