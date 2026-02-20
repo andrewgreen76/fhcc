@@ -1,0 +1,1 @@
+Make sure the repo on the container is currently being served. If yes, generate the preview, parse the preview, and make sure that it displays contents of index.html instead of displaying "Not Found". If everything checks out, do not say anything and display the preview of index.html. If anything fails, report to me in one sentence what failed.

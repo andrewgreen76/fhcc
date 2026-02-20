@@ -1,0 +1,1 @@
+Generate a template for subforum thread page that will have the name of the website, the name of the subforum, the name of the thread, selections [between logging in/registering, seeing the about page, and going to the forum], posts within the thread, paging through the thread for older/newer posts, ability to select how many posts per thread to show
