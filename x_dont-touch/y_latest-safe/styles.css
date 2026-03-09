@@ -15,7 +15,8 @@
 
 body {
   margin: 0;
-  font-family: "EB Garamond", serif;
+  font-family: "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-family: "Helvetica Neue", Helvetica; */ /* "EB Garamond", serif; */
   background: var(--bg);
   color: var(--text);
   line-height: 1.5;
@@ -49,7 +50,7 @@ main {
 .brand-subtitle {
   margin: 0.2rem 0 0;
   color: var(--muted);
-  font-size: 1.05rem;
+  font-size: 1.2rem;
 }
 
 .site-nav {
@@ -60,6 +61,7 @@ main {
 
 .site-nav a {
   color: var(--muted);
+  font-size: 1.2rem;
   text-decoration: none;
   padding-bottom: 0.2rem;
 }
@@ -114,6 +116,7 @@ h2 {
 
 .subforum-table a {
   color: var(--text);
+  font-size: 1.2rem;
   text-decoration: none;
 }
 
