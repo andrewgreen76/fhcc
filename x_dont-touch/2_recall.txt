@@ -1,0 +1,1 @@
+Recall "state 1". Give me the preview of index.html as a webpage. Keep your GUI format as it is: keep the preview, diffs, and logs tabs, keep the prompt thread, and keep the window for the webpage display.
