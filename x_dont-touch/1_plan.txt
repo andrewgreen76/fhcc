@@ -1,0 +1,145 @@
+
+> What they pay for:
+
+> What they get for free:
+
+> Need to switch to $10-$15/mth rate.
+
+As time goes by, come to more real numbers: devalue bullshit and promote the real thing.
+(That’s c33-c50/day)
+Learn from Pieter - $20/mth
+APT - $20/mth
+Skool groups - $120/mth
+LinkedIn Premium - $50/mth
+Coursera Plus - $50/mth
+Twitter (blue check, boosts) - $4-$20/mth
+> Change the rule to: “No one attacks anyone.”
+
+> Change DMs to open posts
+
+> The “You are still young” thing does NOT work (or “Hard work as a backup plan”)
+
+> Ask all of your family members and Luis Gaitan to write thoughts on all the subjects on the forum. Just ask them to share their experiences (for your blog). Share their knowledge, their experience, their stories. You’ll proofread.
+
+> Work on your credentials: drop some names and tenure time; worked in sales and warehouses, graduated at TMCC and UNR before working professionally in manufacturing. I also do embedded engineering and software engineering projects on a side. I also used to create my own music, but then I gave it up. 
+
+> Give advice on:
+
+business, 
+web dev, 
+IT / SaaS
+brand awareness, 
+going to school
+> “ChatGPT provides the value of a General Practitioner.”
+
+|
+
+> “Upgrade Account” button
+
+
+
+> Format: 
+
+### Combine: forum + live notifications + live states of threads + ? live chats ?
+
+
+
+### Forum:
+
++: cultivating patience 
+
++: you are not mixing your time for the forum with time for something else
+
+-: people are not chatting in real time
+
+
+
+### Soc.network:
+
++: people are chatting in real time
+
+-: they mix up chatting time with time for something else
+
+-: their workflow is disrupted by notifications
+
+
+
+### Let it be an app that competes with other notifications.
+
+Site and app “Notify / Follow” mechanic.
+|
+
+> Put the website on your resume.
+
+> Add the logo.
+
+> At home: back up your Ubuntu Linux.
+
+> Settings:
+
+Ability to switch between light and dark modes
+> Add buttons: “Acknowledge”, “Something for me to think about”, “Something for us all to think about” (maybe: that one will pop up on your profile page), “Funny”, 
+
+> Cursor-hover clues.
+
+> Notifications:
+
+flashing flag
+DM inbox
+posts on followed topics
+> Latest post by [name] on [date, time].
+
+> Give her her own account.
+
+> Postmark vs. SendGrid - for transactional emails.
+
+> Much later: UI/UX feedback.
+
+> Admin acct:
+
+username: andrewgreen77
+Pass: 
+humbo /
+admin /
+
+reconsider the "forum" format
+
+Admins/mods do NOT pay.
+
+$20/mth:
+ . visibility and posting in space
+   	      [miscellanea
+	      + counseling in software engineering
+	      + counseling in game development
+	      + addictions
+	      + career counseling
+	      + value, projects, counseling]
+ . no ads
+ . (live chat) 
+
+$10/mth:
+ . visibility and posting in space
+   	      [miscellanea
+	      + counseling in software engineering
+	      + counseling in game development
+	      + addictions
+	      + career counseling]
+ . the ability to DM
+
+$5/mth:
+ . introduce yourself
+ . unlimited posting
+ . visibility and posting in space
+   	      [miscellanea
+	      + counseling in software engineering
+	      + counseling in game development
+	      + addictions]
+
+Free for all:
+ . visibility of and writing up 10 posts in space
+   	      [miscellanea
+	      + counseling in software engineering
+	      + counseling in game development]
+ . you are a spammer
+
+_
